@@ -1,6 +1,8 @@
 # MAPA
 Mesopotamian Ancient Place-names Almanac
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4540616.svg)](https://doi.org/10.5281/zenodo.4540616)
+
 Gazetteer Version 0.1
 -----------------------------------
 
