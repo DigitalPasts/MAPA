@@ -1,4 +1,4 @@
-MAPA Gazetteer Version 0.1 - ReadMe
+ReadMe
 -----------------------------------
 
 The “Mesopotamian Ancient Place-names Almanac” (MAPA) is planned as a long-term
