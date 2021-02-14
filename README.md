@@ -70,9 +70,9 @@ The semi-automatic pipeline will use texts and text summaries which are already 
 
 ### Acknowledgments
 
-We would like to thank Michael Jursa, Ran Zadok, Francis Joannès, and the team at [Achemenet](http://www.achemenet.com/) for providing us with text summaries and transliterations of texts from the relevant periods.
+We would like to thank Ariel M. Bagg, Michael Jursa, Ran Zadok, Francis Joannès, and the team at [Achemenet](http://www.achemenet.com/) for providing us with text summaries and transliterations of texts from the relevant periods.
 
-We would also like to extend our appreciation to our partners at [Pelagios](https://pelagios.org/), especially Elton Barker, Gethin Rees, and Simon Rainer, for their constant technical support and consultation.
+We would also like to extend our appreciation to our partners at [Pelagios](https://pelagios.org/), especially Elton Barker, Gethin Rees, and Simon Rainer, for their constant support and technical consultation.
 
 Lastly, thanks to Karl Grossner from the World Historical Gazeetter, who assisted us with conforming to the JSON-LD based Linked Places format.
 
