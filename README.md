@@ -72,7 +72,7 @@ The semi-automatic pipeline will use texts and text summaries which are already 
 
 ### Acknowledgments
 
-This research was supported by the the Israeli Science Foundation (grant No. 674/15).
+This research was supported by the the **Israel Science Foundation** (grant No. 457/19).
 
 We would like to thank Ariel M. Bagg, Michael Jursa, Ran Zadok, Francis Joannès, and the team at [Achemenet](http://www.achemenet.com/) for providing us with text summaries and transliterations of texts from the relevant periods.
 
