@@ -1,6 +1,6 @@
 ## Mesopotamian Ancient Place-names Almanac
 
-DOI:10.5281/zenodo.6411251
+[![DOI](https://zenodo.org/badge/298858445.svg)](https://zenodo.org/badge/latestdoi/298858445)
 
 The “Mesopotamian Ancient Place-names Almanac” (MAPA) focuses on the southern Mesopotamian city of Uruk ([modern Warka](https://pleiades.stoa.org/places/912986)). It is one of the earliest mega-cities in world history, with evidence of settlement as far back as the 4th Millennium BCE. Uruk possesses some of the earliest attestations of the cuneiform writing system, and boasts of being the royal seat of the legendary king Gilgamesh. MAPA is a first step in integrating textual sources with remote sensing data for reconstructing the social and physical geography of Mesopotamia in the Age of Empires (first millennium BCE). The core of the project is a gazetteer of place names in texts and surveys, both on the ground and via satellite.
 
